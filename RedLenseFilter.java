@@ -30,8 +30,8 @@ public class RedLenseFilter extends Filter
             for(int x = 0; x < width; x++) {
                 Color pix = image.getPixel(x, y);
                 image.setPixel(x, y, new Color(255,
-                                               255 - pix.getBlue(),
-                                               255 - pix.getGreen()));
+                                               255 - pix.getRed(),
+                                               255 - pix.getRed()));
             }
         }
     }
