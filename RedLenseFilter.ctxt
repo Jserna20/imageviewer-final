@@ -1,9 +1,9 @@
 #BlueJ class context
-comment0.target=InvertFilter
+comment0.target=RedLenseFilter
 comment0.text=\n\ An\ image\ filter\ to\ invert\ colors.\n\ \n\ @author\ Michael\ K\u00F6lling\ and\ David\ J.\ Barnes.\n\ @version\ 1.0\n
 comment1.params=name
-comment1.target=InvertFilter(java.lang.String)
-comment1.text=\n\ Constructor\ for\ objects\ of\ class\ InvertFilter.\n\ @param\ name\ The\ name\ of\ the\ filter.\n
+comment1.target=RedLenseFilter(java.lang.String)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ RedLenseFilter.\n\ @param\ name\ The\ name\ of\ the\ filter.\n
 comment2.params=image
 comment2.target=void\ apply(OFImage)
 comment2.text=\n\ Apply\ this\ filter\ to\ an\ image.\n\ \n\ @param\ \ image\ \ The\ image\ to\ be\ changed\ by\ this\ filter.\n
